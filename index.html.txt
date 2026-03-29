@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Roave Education</title>
+</head>
+
+<body style="text-align:center; font-family:Arial;">
+
+<h1>Roave Education</h1>
+<p>This is my first website!</p>
+
+<button onclick="alert('Hello!')">Click Me</button>
+
+</body>
+</html>
